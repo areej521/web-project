@@ -1,0 +1,17 @@
+body{background-color:pink;
+text-align: center;}
+
+.vedio-container{ 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.team-section{
+    text-align: right;
+    direction:rtl;
+    padding-right: 0%;
+}
+.team-section ul{
+    list-style-position: inside;
+    padding-right: 0%;
+}
